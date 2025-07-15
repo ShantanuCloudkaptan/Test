@@ -1,1 +1,1 @@
-This is a smple repository for learning git and github features.
+This is a sample repository for learning git and github features.
